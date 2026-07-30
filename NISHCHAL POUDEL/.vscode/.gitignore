@@ -1,2 +1,5 @@
+.vscode
 *.exe
-.vscode/
+shell.nix
+.envrc
+.direnv

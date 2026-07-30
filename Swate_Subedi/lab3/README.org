@@ -1,4 +1,4 @@
-* LAB 2: Constructors and Destructors C++
+* LAB 3: Constructors and Destructors C++
 
 ** Discussion:
  From this lab, we are able to learn the uses of constructors and destructors in C++.
